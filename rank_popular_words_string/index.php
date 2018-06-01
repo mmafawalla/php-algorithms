@@ -38,11 +38,6 @@ print_r($arr);
 echo "\n \n";
 
 
-/*
-/Users/muhammedmafawalla/Documents/Coding/php/playground/list_popular_words_in_string.php
-*/
-
-
 
 
 
