@@ -1,8 +1,16 @@
 <?php
-
 /*
-Initialisation
+File Name: index.php
+Project Name: Rank popular words in string
+Author: Muhammed Mafawalla
+Version: 1.1
+Author URL: https://mmafawalla.com/
+Description: Business WordPress Theme
+License: GNU General Public License
+
 */
+
+//Initialisation
 
 $str = "";
 $arr = array();
