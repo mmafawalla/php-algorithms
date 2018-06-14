@@ -18,8 +18,7 @@ $str = "Apple stock traded lower by more than 1 percent Friday morning, but Bank
 America analyst Wamsi Mohan says investors shouldn't jump to conclusions based on the report.
 Mohan said initial media reports in 2017 suggested iPhone orders of well over 100 million units.
 Those estimates were then revised to about 100 million before the launch and then revised again
-between 60 million and 80 million after the iPhone X launch was delayed.
-";
+between 60 million and 80 million after the iPhone X launch was delayed.";
 $arr = array();
 $temporary_arr = array();
 
