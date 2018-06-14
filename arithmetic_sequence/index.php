@@ -3,7 +3,7 @@
 File Name: index.php
 Project Name: Arithemtic sequence
 Author: Muhammed Mafawalla
-Version: 1.0
+Version: 1.5
 Author URL: https://mmafawalla.com/
 Author Github URL: https://github.com/mmafawalla
 Summary: Reads first values of an arithmetic sequence,
@@ -11,7 +11,7 @@ creates formula, lists first 100 values
 License: GNU General Public License v3.0
 */
 
-//Initialisation
+//Begin:: Initialisation
 $num_1 = 0;
 $num_2 = 0;
 $num_3 = 0;
@@ -21,6 +21,7 @@ $max_position =0;
 $common_difference = 0;
 $equation_secondHalf = 0;
 $current_value = 0;
+//End:: Initialisation
 
 //Read first 3 numbers
 fwrite(STDOUT, "First number of sequence: ");
